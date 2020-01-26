@@ -1,4 +1,4 @@
-# Terraformk8
+# Terraform Azue kubernetes 
 Azure K8 Terraform setup code 
 
 Terraform code to set up a managed kubernetes cluster on azure 
